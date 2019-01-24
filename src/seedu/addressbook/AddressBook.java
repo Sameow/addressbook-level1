@@ -430,6 +430,9 @@ public class AddressBook {
         return getMessageForSuccessfulAddPerson(personToAdd);
     }
 
+    private static void week3Enhancement() {
+        
+    }
     /**
      * Constructs a feedback message for a successful add person command execution.
      *
